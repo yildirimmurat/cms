@@ -1,0 +1,15 @@
+{
+    "name": "murat/cms",
+    "autoload": {
+        "psr-4": {
+            "CMS\\Core\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murat Yildirim",
+            "email": "myildirim.89@gmail.com"
+        }
+    ],
+    "require": {}
+}
