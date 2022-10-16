@@ -2,7 +2,8 @@
     "name": "murat/cms",
     "autoload": {
         "psr-4": {
-            "CMS\\Core\\": "src"
+            "CMS\\Core\\": "src",
+            "Controllers\\": "controllers"
         }
     },
     "authors": [
